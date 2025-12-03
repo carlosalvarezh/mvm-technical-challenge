@@ -1,0 +1,17 @@
+# Entornos virtuales
+.venv/
+venv/
+
+# Archivos de entorno
+.env
+.env.*
+
+# Archivos de Python
+__pycache__/
+*.pyc
+
+# Archivos de Power BI temporales
+*.tmp
+
+# Archivos de sistema
+.DS_Store
