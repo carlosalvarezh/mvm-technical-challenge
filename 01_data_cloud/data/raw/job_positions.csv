@@ -1,0 +1,36 @@
+job_position_id,department_id,position_name,seniority_level
+1,1,Operations Junior,Junior
+2,1,Operations SemiSenior,SemiSenior
+3,1,Operations Senior,Senior
+4,1,Operations Lead,Lead
+5,1,Operations Manager,Manager
+6,2,Commercial Junior,Junior
+7,2,Commercial SemiSenior,SemiSenior
+8,2,Commercial Senior,Senior
+9,2,Commercial Lead,Lead
+10,2,Commercial Manager,Manager
+11,3,IT & Data Junior,Junior
+12,3,IT & Data SemiSenior,SemiSenior
+13,3,IT & Data Senior,Senior
+14,3,IT & Data Lead,Lead
+15,3,IT & Data Manager,Manager
+16,4,Finance Junior,Junior
+17,4,Finance SemiSenior,SemiSenior
+18,4,Finance Senior,Senior
+19,4,Finance Lead,Lead
+20,4,Finance Manager,Manager
+21,5,Human Resources Junior,Junior
+22,5,Human Resources SemiSenior,SemiSenior
+23,5,Human Resources Senior,Senior
+24,5,Human Resources Lead,Lead
+25,5,Human Resources Manager,Manager
+26,6,Legal & Compliance Junior,Junior
+27,6,Legal & Compliance SemiSenior,SemiSenior
+28,6,Legal & Compliance Senior,Senior
+29,6,Legal & Compliance Lead,Lead
+30,6,Legal & Compliance Manager,Manager
+31,7,Strategy & Projects Junior,Junior
+32,7,Strategy & Projects SemiSenior,SemiSenior
+33,7,Strategy & Projects Senior,Senior
+34,7,Strategy & Projects Lead,Lead
+35,7,Strategy & Projects Manager,Manager

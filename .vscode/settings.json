@@ -1,0 +1,6 @@
+{
+    "python.defaultInterpreterPath": "/Users/capeto/OneDrive/GitHub/ml-env/.venv/bin/python",
+    "python.analysis.extraPaths": [
+        "01_data_cloud/src"
+    ]
+}

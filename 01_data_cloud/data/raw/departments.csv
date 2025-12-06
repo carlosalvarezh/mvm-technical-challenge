@@ -1,0 +1,8 @@
+department_id,department_name,department_type,headcount_weight
+1,Operations,Core,4.0
+2,Commercial,Core,3.0
+3,IT & Data,Core,2.5
+4,Finance,Corporate,1.8
+5,Human Resources,Corporate,1.2
+6,Legal & Compliance,Support,0.7
+7,Strategy & Projects,Support,0.8
