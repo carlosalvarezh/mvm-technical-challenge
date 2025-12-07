@@ -1,0 +1,20 @@
+# Núcleo científico y de análisis de datos
+pandas                 
+numpy                  
+pyarrow                
+
+# Visualización
+matplotlib             
+
+# Integración con Azure
+azure-storage-blob     
+
+# Aplicación Web / API REST
+fastapi                
+uvicorn[standard]      
+
+# Configuración y variables de entorno
+python-dotenv          
+
+# Comunicación HTTP (pruebas de la API desde notebooks)
+requests               
