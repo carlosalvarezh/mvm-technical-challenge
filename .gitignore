@@ -15,3 +15,13 @@ __pycache__/
 
 # Archivos de sistema
 .DS_Store
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Power BI Desktop caches
+*.pbix.zip
+*.pbit.zip
+~$*.pbix
+
+.vscode/
